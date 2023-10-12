@@ -5,7 +5,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-zolotar.ananas@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:zolotar.ananas@gmail.com)](mailto:zolotar.ananas@gmail.com) 
 [![Telegram Badge](https://img.shields.io/badge/-@ananasdes-blue?style=flat-square&logo=Telegram&logoColor=white&link=[https://www.linkedin.com/in/tanejasaksham/](https://t.me/ananas_des))](https://t.me/ananas_des)
 
-<img src="https://media.giphy.com/media/cBSxWiay0sbNkEElG7/giphy.gif" width="200"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubic&size=28&duration=3500&pause=500&color=D0072CE9&vCenter=true&multiline=true&width=435&height=100&lines=Bioinformatician;Molecular+biologist)](https://git.io/typing-svg) </br>
+<img src="https://media.giphy.com/media/cBSxWiay0sbNkEElG7/giphy.gif" width="200"> [![Typing SVG](https://readme-typing-svg.demolab.com?font=Rubic&size=28&duration=3500&pause=500&color=D0072CE9&vCenter=true&multiline=true&width=435&height=170&lines=Bioinformatician;Molecular+biologist;Ananas)](https://git.io/typing-svg) </br>
 [Bioinformatics Institute](https://bioinf.me/en), Bioinformatics for Biologists </br>
 [Lomonosov MSU](https://www.msu.ru/en/), BSc and MSc in Biology </br>
 
