@@ -11,9 +11,40 @@
 
 ## My research experience 🐀
 
-- **Bioinformatic Institute project**: SNP grouping and evaluation of epistatic interaction for phenotypic traits in agricultural plants
-- **MSc thesis**: Single-cell transcriptomics of a trained command neuron of *Helix lucorum*
-- **BSc thesis**: Effect of EF-hand proteins semiconservative amino acid cluster on structural and functional human calmodulin properties
+<details><summary>
+<b>Bioinformatic Institute project</b>: SNP grouping and evaluation of epistatic interaction for phenotypic traits in agricultural plants
+</summary><br> 
+ 
+We aimed to find a software and workflow for grouping single nucleotide polymorphisms (SNPs) based on their association with a quantitative trait and performing epistatic analysis. To achieve this goal, we utilized free-access data on the alanine content of soybeans *Glycine max*, as well as a dataset with some complex phenotypic trait (Nova Plant commercial
+property). The results allowed us to construct interaction graphs of soybean genes which will help the Nova Plant company to work on crop improvement in the future.<br>
+
+Also, during intensive one-year retraining program I worked on wide bioinformatics tasks using open-access data, such as:<br>
+
+1) variant calling of *Escherichia coli* WGS and deep sequencing data;
+2) *de novo* assembly of its genome;
+3) performing tardigrade *Ramazzottius varieornatus* genome annotation and protein function prediction;
+4) performing genotyping and SNP annotation of human 23andMe project data;
+5) analyzing differential gene expression of *Saccharomyces cerevisiae* after 30 minutes of fermentation;
+6) analyzing ancient metagenomes examining human dental calculus;
+7) and, just a little, immune repertoire annotation based on T-cell population of a relatively healthy donor.
+</details>
+
+[Here](https://drive.google.com/drive/folders/1OoKH-iIfSdFm2jrxx-7S5D8Ghl-K16fw?usp=sharing), there are examples of my bioinformatics mini projects.
+
+<details><summary>
+<b>MSc thesis</b>: Single-cell transcriptomics of a trained command neuron of <i>Helix lucorum</i>: SNP grouping and evaluation of epistatic interaction for phenotypic traits in agricultural plants
+</summary><br>
+ 
+I conducted fear conditioning experiments with aversive stimulus on terrestrial gastropod *Helix lucorum*, extract parietal Pa2 and Pa3 neurons, which are known to orchestrate the stimulus avoidance, prepared cDNA libraries, and performed scRNA-Seq of these neurons. Also I took part in a project on studying the splicing and differential gene expression after picrotoxin (cocculine) activation of rat primary hippocampal culture using full-length mRNA sequencing on MinION Oxford Nanopore sequencer.
+</details>
+
+<details><summary>
+<b>BSc thesis</b>: Effect of EF-hand proteins semiconservative amino acid cluster on structural and functional human calmodulin properties
+</summary><br>
+ 
+I conducted alanine screening mutagenesis of the conservative and semi-conservative amino acids in human calmodulin EF-hand motif to define crucial ones for maintaining calmodulin structure and affecting its function.
+
+</details>
 
 ## My programming skills 💻
 
