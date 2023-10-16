@@ -16,7 +16,7 @@
 </summary><br> 
  
 We aimed to find a software and workflow for grouping single nucleotide polymorphisms (SNPs) based on their association with a quantitative trait and performing epistatic analysis. To achieve this goal, we utilized free-access data on the alanine content of soybeans *Glycine max*, as well as a dataset with some complex phenotypic trait (Nova Plant commercial
-property). The results allowed us to construct interaction graphs of soybean genes which will help the Nova Plant company to work on crop improvement in the future.<br>
+property). The results allowed us to construct interaction graphs of soybean genes which will help the Nova Plant company to work on crop improvement in the future. Check [this repository](https://github.com/ananas-des/SNPepi_Plastilin) for more details.<br>
 
 Also, during intensive one-year retraining program I worked on wide bioinformatics tasks using open-access data, such as:<br>
 
